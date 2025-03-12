@@ -1,0 +1,12 @@
+.post-content p {
+    text-indent: 2em;
+    margin-top: 0;
+}
+
+.post-content p:first-child {
+    text-indent: 0;
+}
+
+.post-content ul, .post-content ol, .post-content pre {
+    text-indent: 0;
+}
