@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-03-11T14:32:05.019Z</updated>
+  <updated>2025-03-12T07:23:40.259Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Record</title>
+    <link href="http://example.com/2025/03/12/Record/"/>
+    <id>http://example.com/2025/03/12/Record/</id>
+    <published>2025-03-12T07:18:51.000Z</published>
+    <updated>2025-03-12T07:23:40.259Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="2025-3-12"><a href="#2025-3-12" class="headerlink" title="2025.3.12"></a>2025.3.12</h1><h2 id="植树节"><a href="#植树节" class="headerlink" title="植树节"></a>植树节</h2><p>昨天突发奇想搭建一个自己的博客，说干就干，配好了环境，换好了主题，当然界面还有很多需要优化的地方，不想做得很复杂，但希望界面看着能让自己舒心。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;2025-3-12&quot;&gt;&lt;a href=&quot;#2025-3-12&quot; class=&quot;headerlink&quot; title=&quot;2025.3.12&quot;&gt;&lt;/a&gt;2025.3.12&lt;/h1&gt;&lt;h2 id=&quot;植树节&quot;&gt;&lt;a href=&quot;#植树节&quot; class=&quot;headerlink</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Patrick&#39;s Starry Eyes</title>
